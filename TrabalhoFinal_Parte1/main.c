@@ -2,18 +2,8 @@
  * Trabalho Final Parte 1 de Programação Estruturada
  *
  * Autores: José Vitor Oliveira Reis e Vinícius Nunes de Lima Gabriel
- * Data: 7 de agosto de 2024
+ * Data: 8 de agosto de 2024
  *
- * Descrição:
- * Este programa realiza operações de manipulação em imagens no formato PPM.
- * As operações incluem:
- * - Inversão horizontal
- * - Inversão vertical
- * - Divisão vertical
- * - Divisão horizontal
- *
- * Nota:
- * Certifique-se de que o arquivo "imagem.ppm" está no diretório correto antes de executar o programa.
  */
 
 #include <stdio.h>
