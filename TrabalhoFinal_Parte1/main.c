@@ -430,6 +430,9 @@ int main()
             printf("\nOpção Inválida!\n");
             break;
         }
+
+        printf("\n\n");
     } while (option != 0);
+
     return 0;
 }
